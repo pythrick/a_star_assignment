@@ -83,7 +83,7 @@ dists = {
     ],
     'Mehadia':[
         ('Lugoj',70),
-        ('Dobreta',120)
+        ('Dobreta',75)
     ],
     'Dobreta':[
         ('Mehadia',75),
