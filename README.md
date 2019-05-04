@@ -14,6 +14,8 @@ Prof. Alexander Robert Kutzke
 
 Implemente a função `a_star` do arquivo [a_star.py](a_star.py) presente no repositório.
 
+O destino será sempre **Bucharest**.
+
 O arquivo [dists.py](dists.py) descreve estruturas de dados que representam as
 seguintes informações:
 

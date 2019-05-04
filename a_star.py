@@ -1,7 +1,8 @@
 import math
 import dists
 
-def a_star(start, goal):
+# goal sempre sera 'bucharest'
+def a_star(start, goal='Bucharest'):
     """
     Retorna uma lista com o caminho de start até 
     goal segundo o algoritmo A*
